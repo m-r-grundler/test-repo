@@ -1,1 +1,1 @@
-# test-repogetting set up with git
+# test-repo getting set up with git
